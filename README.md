@@ -52,8 +52,10 @@ A GUI Path Finder and Visualizing written in Java Swing.
     * JButtons (user interaction)
     * JPanel (container for UI elements)
     * etc.
+ 
 **Concurrency:** SwingWorker
 * Used for background execution of algorithm visualization and printing, ensuring a responsive UI.
+
 **Data Structures:** Java Collections
 * Utilized for storing and manipulating graph data efficiently.
 
