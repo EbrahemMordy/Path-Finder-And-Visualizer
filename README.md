@@ -58,86 +58,47 @@ A GUI Path Finder and Visualizing written in Java Swing.
 ***
 # Installing JDK and Setting the System Path
 
-  
-
 To run the project, you'll need to have Java JDK 8 or higher installed on your system.
-
-  
 
 ## 1. Download JDK
 
-  
-
 Visit the [Oracle website](https://www.oracle.com/java/technologies/downloads/) and download the appropriate JDK version.
-
-  
 
 ## 2. Install JDK
 
-  
-
 Run the downloaded installer and follow the on-screen instructions to install the JDK.
-
-  
 
 ## 3. Set System Path
 
-  
-
 - Right-click on `This PC` or `Computer` on the desktop or in File Explorer.
-
 - Choose `Properties`.
-
 - Click on `Advanced system settings` on the left.
-
 - Click on the `Environment Variables` button.
-
 - Under `System Variables`, find
 
-  
-
 and select the `Path` variable, then click on `Edit`.
-
 - Click on `New` and add the path to the `bin` directory of your JDK installation. For example: `C:\Program Files\Java\jdk-21\bin`.
-
 - Click `OK` to close each window.
+
 ***
 # Running the Project
 
-  
-
 1. **Clone the Repository:** Clone this Git repository to your local machine using the following command:
-
-   ```
-
-   git clone https://github.com/EbrahemMordy/Path-Finder-And-Visualizer.git
-
-   ```
-
+   ```
+   git clone https://github.com/EbrahemMordy/Path-Finder-And-Visualizer
+   ```
+   
 2. **Navigate to the Project Directory:** Change your current directory to the root directory of the cloned project:
-
-   ```
-
-   cd Path-Finder-And-Visualizer
-
-   ```
-
-  
+   ```
+   cd Path-Finder-And-Visualizer
+   ```
 
 3. **Compile the Java Files:** Compile the Java source files using the `javac` command.
-
-   ```
-
-   javac Main.java
-
-   ```
-
-  
+   ```
+   javac Main.java
+   ```
 
 4. **Run the Application:** Once the Java files are compiled successfully, you can run the application using the `java` command followed by the name of the main class.
-
-   ```
-
-   java Main
-
-   ```
+   ```
+   java Main
+   ```
