@@ -44,7 +44,9 @@ A GUI Path Finder and Visualizing written in Java Swing.
 # Tools and Technologies
 
 **Programming Language:** Java
+
 **GUI Framework:** Swing
+
 * Components:
     * JFrame (main window)
     * JButtons (user interaction)
