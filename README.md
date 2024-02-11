@@ -2,9 +2,6 @@
 
 A GUI Path Finder and Visualizing written in Java Swing.
 
-# Path Finder
-
-A GUI Path Finder and Visualizing written in Java Swing.
 
 # Features:
 
